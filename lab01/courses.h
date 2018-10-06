@@ -24,6 +24,10 @@ namespace xuanke {
 		std::vector<Time> Timetable;
 	public:
 		Courses(std::string name, std::string department, std::vector<Time> timetable);
+
+		Courses &Print_detail();
+		bool belong_to();
+		bool conflict();
 	};
 }
 #endif
