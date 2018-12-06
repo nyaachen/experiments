@@ -1,0 +1,2 @@
+// Metro_stop info like this
+// 站台名称 路线名称1 路线名称2 路线名称3 
